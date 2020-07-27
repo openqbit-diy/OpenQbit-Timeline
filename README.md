@@ -4,6 +4,8 @@ OpenQbit Software &amp; Hardware - TimeLine
 Fundation OpenQbit
 Quantum Computing - DYI "Do It Yourselt"
 
+![openqbitFundation](https://user-images.githubusercontent.com/60530547/88494605-70961600-cf7c-11ea-9466-6422eb151596.png)
+
  WHO WE ARE
 
 We are a community of researchers, engineers, scientists, designers, physic, makers, and more. The one thing we all have in common? We share an unfaltering passion for harnessing the Quantum Computing to further understand and expand who we are. As our community continues to grow, so does the range of possibilities of what we can discover and create together. What can we build together?
