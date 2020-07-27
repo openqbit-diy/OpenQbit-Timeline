@@ -20,7 +20,7 @@ Currently quantum computing has shown that it will be a great help in all sector
 
 TimeLine
 
-![CronologyProjectsOpenQbit](https://user-images.githubusercontent.com/60530547/88494737-f4500280-cf7c-11ea-9ade-5ec317693e48.png)
+![CronologyProjectsOpenQbit](https://user-images.githubusercontent.com/60530547/88496620-63c8f080-cf83-11ea-9daf-66004d28a47a.png)
 
 More information:
 www.OpenQbit.com
