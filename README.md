@@ -18,6 +18,10 @@ OpenQbit stands for the development of hardware and software easy use with tecno
 
 Currently quantum computing has shown that it will be a great help in all sectors of the world population. However, this technology has very high costs, we speak that currently the quantum computers created exceed millions of dollars and that it is visualized that only economic powers could have it, we think that equal opportunity should be equitable for anyone regardless of economic level, or content , neither ethnic class, nor other differentiators that we currently have worldwide. We want a better world where cutting-edge technological solutions can be applied anywhere in the world. We create the first quantum computer where the economic cost can be covered by anyone.
 
+TimeLine
+
+![CronologyProjectsOpenQbit](https://user-images.githubusercontent.com/60530547/88494737-f4500280-cf7c-11ea-9ade-5ec317693e48.png)
+
 More information:
 www.OpenQbit.com
 
