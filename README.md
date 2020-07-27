@@ -4,7 +4,7 @@ OpenQbit Software &amp; Hardware - TimeLine
 Fundation OpenQbit
 Quantum Computing - DYI "Do It Yourselt"
 
-![openqbitFundation](https://user-images.githubusercontent.com/60530547/88494605-70961600-cf7c-11ea-9466-6422eb151596.png)
+![openqbitFundation](https://user-images.githubusercontent.com/60530547/88495808-a89f5800-cf80-11ea-989b-ad1dfbeaf1a6.png)
 
  WHO WE ARE
 
