@@ -23,6 +23,6 @@ Update TimeLine - 08/12/2020 - New projects.
 ![CronologyProjectsOpenQbitv2](https://user-images.githubusercontent.com/60530547/90093763-e4148300-dcf1-11ea-97f9-3d42afa73532.png)
 
 More information:
-www.OpenQbit.com
+www.OpenQbit.com & www.coinsolidation.org
 
-
+Developments launched in Estonia 2020-2021
