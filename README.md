@@ -20,7 +20,7 @@ Currently quantum computing has shown that it will be a great help in all sector
 
 Update TimeLine - 08/12/2020 - New projects.
 
-![roadmap](https://user-images.githubusercontent.com/60530547/101451418-bdf29e80-38f1-11eb-9446-a1ea4105a1f1.png)
+![roadmap260121](https://user-images.githubusercontent.com/74171247/105927932-945d1600-600a-11eb-88d2-b0799cc96cf5.png)
 
 More information:
 www.OpenQbit.com & www.coinsolidation.org
